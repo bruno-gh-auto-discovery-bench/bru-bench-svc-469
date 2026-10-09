@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "inventory-contract-3",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
